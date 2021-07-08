@@ -1,0 +1,65 @@
+/*Color Palettes
+dark-grey: #171717;
+ash-grey: #444444;
+red: #DA0037;
+light: #EDEDED;
+*/
+
+
+body{
+    background-color: #EDEDED;
+}
+
+
+
+.navbar{
+    background-color: #171717;
+}
+
+.navbar-item{
+    color: #DA0037;
+}
+
+.navbar-item{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+}
+
+.button{
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#resume-button{
+    background-color: #DA0037;
+    color: #EDEDED;
+}
+
+span{
+    color: #EDEDED;
+}
+
+section{
+    background-color: #EDEDED;
+}
+
+a{
+    color: #171717;
+}
+
+ul.b {
+    list-style-type: square;
+  }
+
+hr{
+    background-color: #171717;
+}
+
+footer{
+    background-color: #DA0037;
+}
+
+.content{
+    color: #EDEDED;
+}
+
